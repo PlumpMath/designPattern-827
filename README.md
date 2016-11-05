@@ -1,3 +1,3 @@
 # designPattern
 design Pattern sample
-a senior software engineer.
+I'm a senior software engineer.
